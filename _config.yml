@@ -1,0 +1,41 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title
+paginate: 5
+gems: [jekyll-paginate, jekyll-admin]
+plugins_dir: _plugins
+
+# gem 'jekyll-admin', group: :jekyll_plugins
+
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://username.github.io/
+baseurl: /
+title: Anatoly  Naydenov
+author: Anatoly Naydenov
+description: Личный сайт
+avatar: profile.png
+#Comment out if you don't want disqus 
+disqus: username
+google_analytics: UA-34488886-1
+
+# needed for travis-ci build
+exclude: [vendor]
+
+email: a@naydenov.tk
+github: a-naydenov
+facebook: naydenov.anatoly
+twitter: a-naydenov
+linkedin: anatoly-naydenov
+instagram: tinki_vinki
+gplus: 113419197580831650129
+
+age: 23
+location: Иркутск (МСК+5) # UTC+9
+en_location: Irkutsk, Russia (UTC+9)

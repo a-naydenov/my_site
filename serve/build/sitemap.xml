@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://username.github.io//</loc>
+    <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://username.github.io//404.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//atom.xml</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//blog.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//CV.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//en/blog.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//en/CV.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//en/index.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//index.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//projects.html</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://username.github.io//sitemap.xml</loc>
+    
+      <lastmod>2016-10-04T13:13:34+08:00</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+</urlset>

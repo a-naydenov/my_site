@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <title>Анатолий Найдёнов — Резюме</title>
+    <meta name="description" content="-">
+    <meta name="author" content="{{ site.author }} @{{ site.twitter }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}static/css/cv_base.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}static/css/cv_skeleton.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}static/css/cv_layout.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" href="{{ site.baseurl }}static/img/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.baseurl }}static/img/apple-touch-icon-144.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.baseurl }}static/img/apple-touch-icon-144.png">
+
+    <meta property="og:url" content="http://a-naydenov.github.com/index.html">
+    <meta property="og:locale" content="ru_RU"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="twitter:card" content="summary"/>
+    <meta property="twitter:site" content="@a_naydenov">
+    <meta property="twitter:title" content=""/>
+</head>
+<body>
+<div class="container">
+    <header class="three columns">
+        <div class="photo">
+            <img src="{{ site.baseurl }}static/img/cv_photo.jpg">
+        </div>
+        <h1>Анатолий Найдёнов</h1>
+        <p>
+            <a href="{{ site.age }}">{{ site.age }} года</a> </br>
+            <a href="{{ site.age }}">{{ site.location }}</a>
+        </p>
+<!-- Полная и попроектная занятность, в офисе и удалённо -->
+<!-- Рассматриваю предложения о полной, попроектной занятности и удаленной работе -->
+        <p>
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a><br/>
+            <a href="https://linkedin.com/in/anatoly-naydenov"><i class="fa fa-linkedin"></i> Linkedin</a> / <a href="https://moikrug.ru/naydenov-21362"><img src="{{ site.baseurl }}static/img/moikrug.png">Мой круг</a>
+        </p>
+    </header>
+    <div class="thirteen columns clearfix">
+
+        {{ content }}
+
+    <footer class="thirteen columns">
+        <a href="https://naydenov.tk" title="На главную"><i class="fa fa-home"></i> На главную</a>
+
+        <img class="lang" src="{{ site.baseurl }}static/img/en.gif" width="17" height="17" ><a href="{{ site.baseurl }}en/cv" title="англоязычная версия резюме"> eng</a>
+        <span title="дата правки"><img src="{{ site.baseurl }}static/img/edit.png" width="15" height="17" > 1.09.16</span>
+        <a id="resumelink" href="https://file.naydenov.tk/A_%D0%9D%D0%B0%D0%B8%CC%86%D0%B4%D0%B5%CC%88%D0%BD%D0%BE%D0%B2-%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf" title="загрузить pdf-версию">СКАЧАТЬ PDF</a>
+    </footer>
+    </div>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', '{{ site.google_analytics }}', 'auto');
+  ga('send', 'pageview');
+</script>	
+</body>
+</html>
