@@ -30,8 +30,8 @@ p, address {
 
 .photo img {
     width: 180px;
-    height: 180px;
-    border-radius: 90px;
+    height: 148px;
+    border-radius: 74px;
     margin-bottom: 20px;
   -webkit-transition: all 1s ease;
      -moz-transition: all 1s ease;
@@ -42,7 +42,7 @@ p, address {
 
 .photo img:hover {
     width: 180px;
-    height: 180px;
+    height: 148px;
     border-radius: 10px;
 }
 
