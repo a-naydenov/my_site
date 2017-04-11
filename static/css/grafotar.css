@@ -162,6 +162,6 @@ a:focus {}.icn-grafotar:hover,
     width: 328px;
     height: 328px;
     border-radius: 50%;
-    background-image: url("../img/sequence1.jpg");
+    /*background-image: url("../img/sequence.jpg");*/
     background-position: 0px 0;
 }
